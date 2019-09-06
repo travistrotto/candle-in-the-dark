@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+{
+	background: #000000; 
+}
+
+h1{
+	color: #FFFFFD;
+	
+}
+
+/*------------The Torch-----------
+--------------------------------*/
+#zTorch {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+
+#zTorchheader {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  	
+  color: #fff;
+}
+
+/*--------------------------------
+--------------------------------*/
