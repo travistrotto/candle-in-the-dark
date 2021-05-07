@@ -1,2 +1,4 @@
 # test_candle
-Basic HTML, CSS and JS test site.
+Carry the Candle! a Basic HTML, CSS and JS test site
+## https://travistrotto.github.io/test_candle/
+ 
